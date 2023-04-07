@@ -1,0 +1,5 @@
+node_modules/
+pic/
+.env
+cookies.json
+PuppeteerForGamer.code-workspace
